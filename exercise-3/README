@@ -1,1 +1,3 @@
-README de l'exercice 3
+README de l'exercice 3 : 
+On a vu que dans le manuel de ls, après avoir mis une/des options, on peut rajouter un nom de fichier/dossier.
+Donc dans notre code nous avons remplacé le nom du fichier potentiel par son argument $1 et nous l'avons mis à la suite de notre ls_ordered.
