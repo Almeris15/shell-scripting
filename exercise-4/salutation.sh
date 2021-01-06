@@ -1,7 +1,7 @@
 #! bin/bash
 
-if argument_1 argument_2; then
-	echo "hello , argument_1 argument_2, have a nice day!"
+if $1 $2; then
+	echo "hello ," $1 $2 ", have a nice day!"
 	return 0;
 else 
 	echo "Usage: ./salutation.sh firstname lastname";
