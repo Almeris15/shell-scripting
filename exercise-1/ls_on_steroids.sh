@@ -1,1 +1,3 @@
-exercice 1
+#! /bin/bash
+
+ls -Rahl
