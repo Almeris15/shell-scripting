@@ -1,1 +1,7 @@
-README de l'exercice 2
+README de l'exercice 2 :
+Pas plus de difficulté que l'xercice 1,
+On a regardé le manuel de ls et trouver tout ce qui nous fallait.
+
+-S pour le tri par taille de fichier le plus gros d'abord
+-a pour montrer tous les fichiers même ceux cacher
+-l pour le long-listing des fichiers

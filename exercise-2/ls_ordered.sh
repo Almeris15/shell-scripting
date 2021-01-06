@@ -1,1 +1,3 @@
-code exercice 2
+#! /bin/bash
+
+ls -Sal
