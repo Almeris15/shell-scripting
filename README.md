@@ -6,7 +6,7 @@ Pour l'exercice 3, nous avons réutilisé le code de l'exercice 2 puis avec les 
 
 Lors de l'exercice 4, nous avons découvert les conditions dans un document shell. Le plus dur a été de dire que le reste était faux car en ayant trop d'arguments, ce n'était pas faux, le fichier en gardais seulement 2.
 
-L'exercice 5
+L'exercice 5 : nous avons repris le code de l'exercice 4 et rajouté la condition manquante avec un if afin de réussir cet exercice 5 sans trop de problèmes.
 
 L'exercice 6 : exercice pas compliqué. Il suffisait de bien écrire tous les chemins d'accès lors de la création des différents fichiers/documents et de ne pas en oublié un.
 
