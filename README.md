@@ -12,4 +12,6 @@ L'exercice 6 : exercice pas compliqué. Il suffisait de bien écrire tous les ch
 
 Pour l'exercice 7, nous avons réutilisé le code de l'exercice 6 et nous l'avons intégré à une condition afin d'obtenir les résultats voulu pour cet exercice. Cependant quelques difficultés à comprendre la dernière consigne de cet exercice. 
 
-L'exercice 8
+L'exercice 8 nous nous sommes inspiré du début de code fourni par le sujet ainsi que le code de guessing game déjà fait lors du tutoriel.
+Nous avons donc repris la boucle While avec les conditions if, elif et else à l'intérieur.
+Cela nous a permis de résoudre cet exercice en modifiant l'écriture python .py en écriture shell .sh.
