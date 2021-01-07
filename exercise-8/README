@@ -1,1 +1,4 @@
-README de l'exercice 8
+README de l'exercice 8 :
+Pour cet exercice nous nous sommes inspiré du début de code fourni par le sujet ainsi que le code de guessing game déjà fait lors du tutoriel.
+Nous avons donc repris la boucle While avec conditions if elif et else à l'intérieur.
+Cela nous à permit de résoudre cet exercice en modifiant l'écriture python .py en écriture shell .sh.
