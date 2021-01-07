@@ -1,1 +1,2 @@
 README de l'exercice 6 :
+Nous avons utilisés le mkdir pour créer les dossiers et le touch pour créer les fichier. On as réussis à créer les dossiers et les fichiers en deux lignes de code en précisant la place de chacuns (par exemple que csgo.exe devait se trouver dans le dossier gamez situé dans documents en faisant mkdir documents/gamez touch documents/gamez/csgo.exe).
