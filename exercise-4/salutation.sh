@@ -1,9 +1,7 @@
-#! bin/bash
+#! /bin/bash
 
-if $1 $2; then
-	echo "hello ," $1 $2 ", have a nice day!"
-	return 0;
+if [ -z != $1 ] && [ -z != $2 ]; then 
+	echo "hello $1 $2, have a nice day!"
 else 
-	echo "Usage: ./salutation.sh firstname lastname";
-	return 1;
+	echo "Usage: ./salutation.sh firstname lastname"
 fi
