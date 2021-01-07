@@ -2,7 +2,8 @@ README de l'exercice 6 :
 
 Nous avons utilisés 2 commandes :
 - mkdir pour créer les dossiers 
-- touch pour créer les fichier
+- touch pour créer les fichiers
 
 Nous avons réussis à créer les dossiers et les fichiers en seulement deux lignes de code en précisant la place de chacuns.
-Tel que par exemple csgo.exe devait se trouver dans le dossier gamez situé dans le dossier documents en faisant mkdir documents/gamez touch documents/gamez/csgo.exe
+Tel que par exemple csgo.exe qui devait se trouver dans le dossier gamez situé dans le dossier documents ainsi en faisant mkdir documents/gamez touch documents/gamez/csgo.exe,
+nous avons pu crée le chemin du fichier sans problème.
