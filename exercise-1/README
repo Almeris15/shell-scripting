@@ -1,2 +1,9 @@
 Ceci est le README de l'exercice 1 :
-Nous nous sommes aidés de la solution dans sujet pour pouvoir écrire notre propre scripte qui énumère le contenu du répertoire courant.
+
+Nous nous sommes aidés de la solution dans le sujet pour pouvoir écrire le script qui énumère le contenu du répertoire courant de manière "boosté".
+
+Grâce aux options suivantes ajouté a un ls classique:
+-R pour l'option récursive
+-a pour montrer tous les documents cachés
+-h pour rendre le résultat lisable pour un human
+-l pour le format en longue liste
