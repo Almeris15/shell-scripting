@@ -1,4 +1,4 @@
 README de l'exercice 4 :
-on a utilisé les conditions if pour filtrer le nombre d'argument qu'il nous fallait pour cet exercice.
+On a utilisé les conditions if pour filtrer le nombre d'arguments qu'il nous fallait pour cet exercice.
 Cela nous a permis d'en demander au moins 2.
-Afin de limiter ce nombre d'argument à 2 nous avont alors fait un 2ème if a l'intérieur du premier.
+Afin de limiter ce nombre d'argument à 2 nous avons alors fait un 2ème if à l'intérieur du premier.
